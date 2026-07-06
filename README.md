@@ -4,7 +4,7 @@
 
 OpenSociety is an open-source community and repository dedicated to fostering collaboration, learning, and meaningful contributions across the global developer ecosystem. Whether you're making your first pull request or your thousandth, you belong here.
 
----
+<!--
 
 ## 🚀 What is OpenSociety?
 
@@ -140,4 +140,4 @@ If OpenSociety has helped you or you believe in what we're building, please cons
 
 *Open source. Open minds. Open society.*
 
-</div>
+</div> -->
